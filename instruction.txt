@@ -1,0 +1,5 @@
+0) user will estabish a connection with backend and in respnse backend will send a unique id to user.
+1) create a express app which will accept latitude and longitude values from the front end of he user and also his/her id and name.
+2) once the values are sent it should be stored in the database.
+3) after every 5 seconds whenever a new latitude and longitude value comes based on its id it should be updated on database.
+4) once the location has been updated it should be sent to the user.
